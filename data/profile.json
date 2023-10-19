@@ -27,7 +27,7 @@
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
+      "Autodidata",
       "Trabalho em equipe",
       "Flexibilidade",
       "Organização"
@@ -35,9 +35,7 @@
   },
   "languages": [
     "Português BR",
-    "Inglês (iniciante)",
-    "Espanhol (iniciante)",
-    "Italiano (iniciante)"
+    "Inglês (iniciante)"
   ],
   "portfolio": [
     {
@@ -53,19 +51,19 @@
   ],
   "professionalExperience": [
     {
-      "name": "Front-end Developer / Shoulder",
-      "period": "nov 2022- 2023",
-      "description": "Atuei como Front-end Developer, com foco em Desenvolvimento Web e manutenção de sites e aplicativos. Minhas responsabilidades incluíam o desenvolvimento de soluções web personalizadas para atender às necessidades dos clientes, bem como a gestão e manutenção de sites e aplicativos."
+      "name": "Analista de Sistemas Junior/ Shoulder",
+      "period": "jul 2022- 2023",
+      "description": "Atuei no auxílio a equipe de desenvolvimento da empresa, realizando tarefas no SQL SERVER como criação de tabelas, otimização de consultas onerosas analisando melhorias apontadas pelo plano de execução, criando Store Procedures e Funções conforme requisito enviado pela equipe de analistas da empresa e responsável pela migração das rotinas do ambiente de desenvolvimento para o de QA (Quality Assurance)."
     },
     {
       "name": "Front-end Developer / Enext",
-      "period": "oct 2021- 2022",
-      "description": "Como Front-end Developer, minha principal responsabilidade era o desenvolvimento e a realização de projetos sob demanda, onde desenvolvia sites utilizando HTML, CSS, JavaScript, React, Typescript e MySQL . Minha expertise estava em transformar conceitos criativos em interfaces funcionais e atraentes usando UX/UI, além disso organizava a gestão e otimização de bancos de dados MySQL para garantir desempenho e segurança."
+      "period": "apr 2021- 2022",
+      "description": "Atuei na criação e manutenção de interfaces visuais de sites e aplicativos web, utilizando-se de HTML para marcação, CSS para estilização e Javascript para manipulação de DOM, além de frameworks como Jquery e Angular.js para requisições AJAX e Bootstrap para implementações responsivas. Também atuei como Tester, realizando validações de interfaces, controles e performance nos clients mais utilizados como Chrome, Mozilla, Opera e Edge."
     },
     {
-      "name": "E-commerce Assistant / Jadlog",
-      "period": "mar 2021- 2021",
-      "description": "Como E-commerce Assistant, minha principal responsabilidade era a gestão completa das entregas de encomendas de e-commerce, oferecendo um serviço de porta a porta. Isso incluía desde o processamento de pedidos, embalagem cuidadosa dos produtos até a entrega direta aos clientes, garantindo uma experiência de compra conveniente e satisfatória."
+      "name": "Analista de Suporte / Use Taxi",
+      "period": "aug 2020- 2021",
+      "description": "Como atendente de suporte em uma empresa de táxi por rádio, minhas responsabilidades incluíam atender chamadas de clientes, coordenar operações de táxi, monitorar corridas, solucionar problemas, registrar informações e manter uma comunicação eficaz com motoristas e clientes, assegurando um serviço de alta qualidade."
     }
   ]
 }
